@@ -1,0 +1,42 @@
+Assignment no. 1:
+
+Write program that calculates sum of ten inserted numbers. Each time when 
+user inserts a number, program will print sum.
+
+Final output:
+
+Insert a number: 
+1
+Sum: 1
+Insert a number: 
+5
+Sum: 6
+Insert a number: 
+3
+Sum: 9
+Insert a number: 
+6
+Sum: 15
+Insert a number: 
+8
+Sum: 23
+Insert a number: 
+2
+Sum: 25
+Insert a number: 
+3
+Sum: 28
+Insert a number: 
+4
+Sum: 32
+Insert a number: 
+5
+Sum: 37
+Insert a number: 
+9
+Sum: 46
+
+
+Assignment no. 2:
+
+Similarly to previous assignment, write a program that calculates sum of only EVEN ten inserted numbers.

@@ -1,7 +1,9 @@
 package org.bildit.homework.may4th;
 
 import java.util.Scanner;
-
+/**
+ * @author Branislav Lazic*
+ */
 public class SumSolution {
 
 	public static void main(String[] args) {
